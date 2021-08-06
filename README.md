@@ -1,15 +1,12 @@
 ### Olá sou o Nicollas Cruz!
 
 
-- 🔭 Atualmente estou desenvolvendo WebApplicatções com Python
-- 🌱 Estudando Django e Flask
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estou aprendendo a desenvolver WebApplicações com Python
+- 🌱 Estudando Django, Flask e SQL
+- 👯 Estou procurando oportunidades para colaborar com projetos Python
+- ⚡ Sou um amante de Tecnologias e do universo Geek
+
+Em breve estarei upando os projetos que estou estudando/desenvolvendo!
 
 </br>
 <div style="display: inline_block"><br>
